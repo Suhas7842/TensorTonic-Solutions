@@ -1,11 +1,15 @@
-# TensorTonic Solutions
+<!-- tensortonic:start -->
+# Suhas's TensorTonic Solutions
 
-Welcome to my TensorTonic solutions repository!
+Verified machine learning implementations completed on [TensorTonic](https://www.tensortonic.com).
 
-Here you'll find my solutions to various machine learning and deep learning problems from [TensorTonic](https://tensortonic.com).
+<p align="center">
+  <img src="https://www.tensortonic.com/api/badge/rsuhaskumar3.svg" alt="TensorTonic Verified Solutions" width="100%" />
+</p>
 
-## What is TensorTonic?
+| Problem | Description | Link |
+|---|---|---|
+| Implement Sigmoid in NumPy | Implement a vectorized sigmoid activation in NumPy for scalars, lists, vectors, and matrices, including large positive and negative inputs. | https://www.tensortonic.com/problems/sigmoid-numpy |
 
-TensorTonic is a platform where you can implement core algorithms of Machine Learning from scratch.
-
-This repository contains my personal solutions to these problems, automatically synchronized from the platform.
+View my verified ML profile: [TensorTonic profile](https://www.tensortonic.com/profile/rsuhaskumar3)
+<!-- tensortonic:end -->
